@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="alm_asset" label="new table" max_length="40" name="x_94560_jakes_demo_new_table" type="collection">
+        <element default="Matti Nykänen" label="Name" max_length="9" name="name" type="string_full_utf8"/>
+    </element>
+</database>
