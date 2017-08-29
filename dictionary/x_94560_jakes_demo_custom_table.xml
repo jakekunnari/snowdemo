@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="alm_asset" label="custom_Table" max_length="40" name="x_94560_jakes_demo_custom_table" type="collection"/>
+</database>
